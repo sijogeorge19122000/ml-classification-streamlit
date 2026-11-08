@@ -8,8 +8,8 @@
 - **BITS Student ID:** 2026AK05604
 - **Program:** M.Tech (AIML) – 1st Semester
 - **Course:** Machine Learning
-- **GitHub Repository Link:** [https://github.com/sijogeorge19122000/ml-classification-streamlit](https://github.com/sijogeorge19122000/ml-classification-streamlit) *(Update with your repository URL)*
-- **Live Streamlit App Link:** [https://ml-classification-evaluator.streamlit.app](https://ml-classification-evaluator.streamlit.app) *(Update with your deployed app URL)*
+- **GitHub Repository Link:** [https://github.com/sijogeorge19122000/ml-classification-streamlit](https://github.com/sijogeorge19122000/ml-classification-streamlit) 
+- **Live Streamlit App Link:** [https://ml-classification-evaluator.streamlit.app](https://ml-classification-evaluator.streamlit.app) 
 
 ---
 
@@ -20,11 +20,11 @@ The objective of this assignment is to develop, evaluate, and deploy an interact
 
 ---
 
-## **b. Dataset Description [1 Mark]**
+## **b. Dataset Description **
 - **Dataset Name:** Breast Cancer Wisconsin (Diagnostic) Dataset
 - **Repository Source:** UCI Machine Learning Repository (Dataset ID: 17) & Kaggle
-- **Total Instances (Rows):** 569 samples *(Satisfies requirement of Minimum 500 instances)*
-- **Total Predictive Features:** 30 continuous real-valued numeric features *(Satisfies requirement of Minimum 12 features)*
+- **Total Instances (Rows):** 569 samples 
+- **Total Predictive Features:** 30 continuous real-valued numeric features 
 - **Target Variable:** `target` (Binary Classification: `0 = Malignant`, `1 = Benign`)
 - **Class Distribution:**
   - Benign ($1$): 357 instances (62.74%)
@@ -49,8 +49,8 @@ The objective of this assignment is to develop, evaluate, and deploy an interact
 
 ---
 
-## **c. GitHub Repository Link [1 Mark]**
-- **Repository URL:** `https://github.com/sijogeorge/ml-classification-streamlit`
+## **c. GitHub Repository Link **
+- **Repository URL:** `https://github.com/sijogeorge19122000/ml-classification-streamlit`
 - **Repository Contents:**
   - `app.py`: Interactive Streamlit multi-model evaluation dashboard.
   - `requirements.txt`: Clean, version-pinned deployment dependencies.
@@ -61,7 +61,7 @@ The objective of this assignment is to develop, evaluate, and deploy an interact
 
 ---
 
-## **d. Models Used & Comparison Table [5 Marks]**
+## **d. Models Used & Comparison Table **
 Five distinct classification algorithms were trained on the identical training set ($n=455$) and evaluated on the identical unseen test set ($n=114$).
 
 ### **Evaluation Metrics Comparison Table**
@@ -77,7 +77,7 @@ Five distinct classification algorithms were trained on the identical training s
 
 ---
 
-## **e. Observations on Model Performance [3 Marks]**
+## **e. Observations on Model Performance **
 
 | ML Model Name | Observation about model performance |
 | :--- | :--- |
@@ -103,7 +103,7 @@ The interactive web application includes:
 
 ---
 
-## **g. How to Run Locally & Deploy**
+## **g. How to Run Locally**
 
 ### **1. Run Locally**
 ```bash
@@ -118,9 +118,3 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-### **2. Deploy on Streamlit Community Cloud (FREE)**
-1. Push this folder to a public GitHub repository.
-2. Visit [https://streamlit.io/cloud](https://streamlit.io/cloud) and sign in with GitHub.
-3. Click **"New App"**.
-4. Select your repository, branch (`main`), and file path (`app.py`).
-5. Click **"Deploy"** — the live app URL will be available immediately!
