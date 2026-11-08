@@ -9,7 +9,7 @@
 - **Program:** M.Tech (AIML) – 1st Semester
 - **Course:** Machine Learning
 - **GitHub Repository Link:** [https://github.com/sijogeorge19122000/ml-classification-streamlit](https://github.com/sijogeorge19122000/ml-classification-streamlit) 
-- **Live Streamlit App Link:** [https://ml-classification-evaluator.streamlit.app](https://ml-classification-evaluator.streamlit.app) 
+- **Live Streamlit App Link:** [https://62axynjjw9nhbzg7yvhh3j.streamlit.app/](https://62axynjjw9nhbzg7yvhh3j.streamlit.app/) 
 
 ---
 
