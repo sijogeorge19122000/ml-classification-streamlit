@@ -8,7 +8,7 @@
 - **BITS Student ID:** 2026AK05604
 - **Program:** M.Tech (AIML) – 1st Semester
 - **Course:** Machine Learning
-- **GitHub Repository Link:** [https://github.com/sijogeorge/ml-classification-streamlit](https://github.com/sijogeorge/ml-classification-streamlit) *(Update with your repository URL)*
+- **GitHub Repository Link:** [https://github.com/sijogeorge19122000/ml-classification-streamlit](https://github.com/sijogeorge19122000/ml-classification-streamlit) *(Update with your repository URL)*
 - **Live Streamlit App Link:** [https://ml-classification-evaluator.streamlit.app](https://ml-classification-evaluator.streamlit.app) *(Update with your deployed app URL)*
 
 ---
